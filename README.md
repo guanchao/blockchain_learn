@@ -3,7 +3,7 @@
 ## 一、区块链知识体系脑图
 
 
-![mind](https://shuwoom.com/wp-content/uploads/2018/06/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97-1.png)
+![mind](mind.png)
 
 
 ## 二、区块链理论知识学习
@@ -24,12 +24,13 @@
 
 从零开发一个mini区块链：[http://miniblockchain.shuwoom.com](http://miniblockchain.shuwoom.com)。
 后续写相应的教程，理论结合实践，加深对区块链技术的理解。
-![miniblockchain1](https://shuwoom.com/wp-content/uploads/2018/06/miniblockchain1.jpg)
-![miniblockchain1](https://shuwoom.com/wp-content/uploads/2018/06/miniblockchain2.jpg)
-![miniblockchain1](https://shuwoom.com/wp-content/uploads/2018/06/miniblockchain3.jpg)
+![miniblockchain1](miniblockchain1.jpg)
+![miniblockchain1](miniblockchain2.jpg)
+![miniblockchain1](miniblockchain3.jpg)
 
 ## 四、Token（数字货币）分析
 Todo，敬请期待…
 
 关注我的微信公众号（shuwoom的博客），每周定期推送干货：
+
 ![wechat](https://shuwoom.com/wp-content/uploads/2018/05/qrcode_for_gh_11440253a81d_258.jpg)
