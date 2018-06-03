@@ -33,4 +33,4 @@ Todo，敬请期待…
 
 关注我的微信公众号（shuwoom的博客），每周定期推送干货：
 
-![wechat](https://shuwoom.com/wp-content/uploads/2018/05/qrcode_for_gh_11440253a81d_258.jpg)
+![wechat](wechat.jpg)
