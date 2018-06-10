@@ -19,6 +19,7 @@
 * [深入浅出Raft共识算法](https://shuwoom.com/?p=826)
 * [布隆过滤器(BLOOM FILTER)、SPV和比特币](https://shuwoom.com/?p=857)
 * [区块链网络设计](https://shuwoom.com/?p=449)
+* [什么是零知识证明](https://shuwoom.com/?p=947)
 
 ## 三、动手实践
 
